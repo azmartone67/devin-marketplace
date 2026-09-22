@@ -67,6 +67,7 @@
     "./plugins/cognition-redshift",
     "./plugins/cognition-snowflake",
     "./plugins/cognition-spanner",
+    "./plugins/community-playbooks",
     "./plugins/contentsquare",
     "./plugins/context7",
     "./plugins/corridor",
